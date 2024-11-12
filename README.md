@@ -1,2 +1,2 @@
 # PulsePredictors
-Heart Disease Prediction using Cleveland Heart Disease Dataset
+Machine Learning Heart Disease Prediction using Cleveland Heart Disease Dataset
