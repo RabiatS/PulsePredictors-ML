@@ -55,7 +55,7 @@ pip install -r requirements.txt
 - 5. Work on improving and selecting best model accuracy - Wednesday, November 14, 2024
 - 6. Present Findings, Final reports, and presentation - Thursday, November 21, 2024
 
-#Selected machine learning application and its significance:
+# Selected machine learning application and its significance:
 
 Currently, heart disease is one of the leading causes of death worldwide. It is known that early detection of heart disease can significantly reduce the effects of heart complications and allows for medical help to begin working effectively. We can use machine learning to identify the likelihood of heart disease based on different objective data like blood pressure, cholesterol, age, blood sugar, etc. This could help prevent several heart conditions from getting worse, leading to both better healthcare and heart disease severity prevention with a more personalized treatment plan based on the ML prediction.
 
