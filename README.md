@@ -93,11 +93,10 @@ Models are evaluated using:
 
 ## Results
 ```python
-Binary Classification:
-Best Model: Random Forest (Accuracy: 0.85)
 
-Multiclass Classification:
-Best Model: SVM (Accuracy: 0.78)
+Best Binary Classification Model: KNN,  Accuracy 0.8852
+
+Best Multiclass Classification Model: SVM, Accuracy 0.5410
 ```
 
 ## Future Improvements
