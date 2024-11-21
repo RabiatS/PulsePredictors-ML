@@ -98,6 +98,8 @@ Best Binary Classification Model: KNN,  Accuracy 0.8852
 Best Multiclass Classification Model: SVM, Accuracy 0.5410
 ```
 
+![alt text](image.png)
+
 ## Future Improvements
 - [ ] Feature engineering to create more predictive features
 - [ ] Hyperparameter tuning for better model performance
