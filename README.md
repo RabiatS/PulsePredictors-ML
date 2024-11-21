@@ -1,6 +1,6 @@
 # Heart Disease Prediction Project
 
-# PulsePredictors
+### PulsePredictors
 Machine Learning Heart Disease Prediction using Cleveland Heart Disease Dataset
 * Rabiat Sadiq 
 * Juan Casillas
