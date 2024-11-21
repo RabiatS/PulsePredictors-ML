@@ -93,7 +93,6 @@ Models are evaluated using:
 
 ## Results
 ```python
-
 Best Binary Classification Model: KNN,  Accuracy 0.8852
 
 Best Multiclass Classification Model: SVM, Accuracy 0.5410
