@@ -125,3 +125,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Cleveland Heart Disease Dataset: https://archive.ics.uci.edu/dataset/45/heart+disease, https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland,
 -  Kaggle: https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland
 -  Guide to Predictive models: https://www.pecan.ai/blog/predictive-modeling/#:~:text=The%20predictive%20modeling%20process%20has,prediction%20you%20want%20to%20create.
+-  https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
