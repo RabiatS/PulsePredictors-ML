@@ -31,9 +31,14 @@ The Cleveland Heart Disease dataset contains 303 instances with 14 attributes:
 
 
 ## Setup and Installation
+
 ```bash
-# Clone the repository
-git clone [repository-url]
+
+#Download Raw file
+For this you can download the raw file using the "raw" button, save the file and run on any python IDE of your choice
+
+# or clone the repository
+git clone https://github.com/username/PulsePredictor-ML.git
 
 # Create virtual environment
 python -m venv env
@@ -44,7 +49,11 @@ env\Scripts\activate     # Windows
 
 # Install required packages
 pip install -r requirements.txt
+
+# Update your cloned repo:
+git pull
 ```
+
 
 ## Project timeline and milestones:
 
